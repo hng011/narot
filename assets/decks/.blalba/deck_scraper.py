@@ -9,6 +9,7 @@ import os
 import time
 import requests
 from dotenv import load_dotenv
+from utils import first_char_up
 
 load_dotenv()
 
@@ -20,12 +21,13 @@ def store(deck_name, count, extension, image_bytes):
         f.write(image_bytes)
 
 def main():
-    endpoint = os.getenv("DECK2")
+    endpoint = os.getenv(input("DECK NAME: "))
     extension = os.getenv("EXTENSION")
     try:
         for i in range(78):
             res = requests.get(endpoint + str(i) + '.' + extension)
-            deck_name = "".join([x.upper() if i == 0 else x for i, x in enumerate(str(endpoint.split("/")[-3]))])
+            raw = str(endpoint.split("/")[-3])
+            deck_name = "".join(first_char_up(raw))
             print(f"{i} success")
             store(deck_name, i, extension, res.content)                
     except Exception as E:

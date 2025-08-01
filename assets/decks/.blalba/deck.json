@@ -1,0 +1,789 @@
+{
+    "numDeck": 2,
+    "listDeck": {
+        "Archeon": [
+            {
+                "id": 0,
+                "name": "the fool",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/0.jpg"
+            },
+            {
+                "id": 1,
+                "name": "the magician",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/1.jpg"
+            },
+            {
+                "id": 2,
+                "name": "the high priestess",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/2.jpg"
+            },
+            {
+                "id": 3,
+                "name": "the empress",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/3.jpg"
+            },
+            {
+                "id": 4,
+                "name": "the emperor",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/4.jpg"
+            },
+            {
+                "id": 5,
+                "name": "the hierophant",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/5.jpg"
+            },
+            {
+                "id": 6,
+                "name": "the lovers",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/6.jpg"
+            },
+            {
+                "id": 7,
+                "name": "the chariot",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/7.jpg"
+            },
+            {
+                "id": 8,
+                "name": "strength",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/8.jpg"
+            },
+            {
+                "id": 9,
+                "name": "the hermit",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/9.jpg"
+            },
+            {
+                "id": 10,
+                "name": "wheel of fortune",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/10.jpg"
+            },
+            {
+                "id": 11,
+                "name": "justice",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/11.jpg"
+            },
+            {
+                "id": 12,
+                "name": "the hanged man",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/12.jpg"
+            },
+            {
+                "id": 13,
+                "name": "death",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/13.jpg"
+            },
+            {
+                "id": 14,
+                "name": "temperance",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/14.jpg"
+            },
+            {
+                "id": 15,
+                "name": "the devil",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/15.jpg"
+            },
+            {
+                "id": 16,
+                "name": "the tower",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/16.jpg"
+            },
+            {
+                "id": 17,
+                "name": "the star",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/17.jpg"
+            },
+            {
+                "id": 18,
+                "name": "the moon",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/18.jpg"
+            },
+            {
+                "id": 19,
+                "name": "the sun",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/19.jpg"
+            },
+            {
+                "id": 20,
+                "name": "judgment",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/20.jpg"
+            },
+            {
+                "id": 21,
+                "name": "the world",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/21.jpg"
+            },
+            {
+                "id": 22,
+                "name": "ace of wands",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/22.jpg"
+            },
+            {
+                "id": 23,
+                "name": "two of wands",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/23.jpg"
+            },
+            {
+                "id": 24,
+                "name": "three of wands",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/24.jpg"
+            },
+            {
+                "id": 25,
+                "name": "four of wands",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/25.jpg"
+            },
+            {
+                "id": 26,
+                "name": "five of wands",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/26.jpg"
+            },
+            {
+                "id": 27,
+                "name": "six of wands",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/27.jpg"
+            },
+            {
+                "id": 28,
+                "name": "seven of wands",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/28.jpg"
+            },
+            {
+                "id": 29,
+                "name": "eight of wands",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/29.jpg"
+            },
+            {
+                "id": 30,
+                "name": "nine of wands",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/30.jpg"
+            },
+            {
+                "id": 31,
+                "name": "ten of wands",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/31.jpg"
+            },
+            {
+                "id": 32,
+                "name": "page of wands",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/32.jpg"
+            },
+            {
+                "id": 33,
+                "name": "knight of wands",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/33.jpg"
+            },
+            {
+                "id": 34,
+                "name": "queen of wands",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/34.jpg"
+            },
+            {
+                "id": 35,
+                "name": "king of wands",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/35.jpg"
+            },
+            {
+                "id": 36,
+                "name": "ace of cups",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/36.jpg"
+            },
+            {
+                "id": 37,
+                "name": "two of cups",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/37.jpg"
+            },
+            {
+                "id": 38,
+                "name": "three of cups",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/38.jpg"
+            },
+            {
+                "id": 39,
+                "name": "four of cups",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/39.jpg"
+            },
+            {
+                "id": 40,
+                "name": "five of cups",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/40.jpg"
+            },
+            {
+                "id": 41,
+                "name": "six of cups",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/41.jpg"
+            },
+            {
+                "id": 42,
+                "name": "seven of cups",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/42.jpg"
+            },
+            {
+                "id": 43,
+                "name": "eight of cups",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/43.jpg"
+            },
+            {
+                "id": 44,
+                "name": "nine of cups",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/44.jpg"
+            },
+            {
+                "id": 45,
+                "name": "ten of cups",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/45.jpg"
+            },
+            {
+                "id": 46,
+                "name": "page of cups",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/46.jpg"
+            },
+            {
+                "id": 47,
+                "name": "knight of cups",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/47.jpg"
+            },
+            {
+                "id": 48,
+                "name": "queen of cups",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/48.jpg"
+            },
+            {
+                "id": 49,
+                "name": "king of cups",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/49.jpg"
+            },
+            {
+                "id": 50,
+                "name": "ace of swords",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/50.jpg"
+            },
+            {
+                "id": 51,
+                "name": "two of swords",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/51.jpg"
+            },
+            {
+                "id": 52,
+                "name": "three of swords",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/52.jpg"
+            },
+            {
+                "id": 53,
+                "name": "four of swords",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/53.jpg"
+            },
+            {
+                "id": 54,
+                "name": "five of swords",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/54.jpg"
+            },
+            {
+                "id": 55,
+                "name": "six of swords",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/55.jpg"
+            },
+            {
+                "id": 56,
+                "name": "seven of swords",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/56.jpg"
+            },
+            {
+                "id": 57,
+                "name": "eight of swords",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/57.jpg"
+            },
+            {
+                "id": 58,
+                "name": "nine of swords",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/58.jpg"
+            },
+            {
+                "id": 59,
+                "name": "ten of swords",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/59.jpg"
+            },
+            {
+                "id": 60,
+                "name": "page of swords",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/60.jpg"
+            },
+            {
+                "id": 61,
+                "name": "knight of swords",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/61.jpg"
+            },
+            {
+                "id": 62,
+                "name": "queen of swords",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/62.jpg"
+            },
+            {
+                "id": 63,
+                "name": "king of swords",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/63.jpg"
+            },
+            {
+                "id": 64,
+                "name": "ace of pentacles",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/64.jpg"
+            },
+            {
+                "id": 65,
+                "name": "two of pentacles",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/65.jpg"
+            },
+            {
+                "id": 66,
+                "name": "three of pentacles",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/66.jpg"
+            },
+            {
+                "id": 67,
+                "name": "four of pentacles",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/67.jpg"
+            },
+            {
+                "id": 68,
+                "name": "five of pentacles",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/68.jpg"
+            },
+            {
+                "id": 69,
+                "name": "six of pentacles",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/69.jpg"
+            },
+            {
+                "id": 70,
+                "name": "seven of pentacles",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/70.jpg"
+            },
+            {
+                "id": 71,
+                "name": "eight of pentacles",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/71.jpg"
+            },
+            {
+                "id": 72,
+                "name": "nine of pentacles",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/72.jpg"
+            },
+            {
+                "id": 73,
+                "name": "ten of pentacles",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/73.jpg"
+            },
+            {
+                "id": 74,
+                "name": "page of pentacles",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/74.jpg"
+            },
+            {
+                "id": 75,
+                "name": "knight of pentacles",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/75.jpg"
+            },
+            {
+                "id": 76,
+                "name": "queen of pentacles",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/76.jpg"
+            },
+            {
+                "id": 77,
+                "name": "king of pentacles",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Archeon/77.jpg"
+            }
+        ],
+        "Rider": [
+            {
+                "id": 0,
+                "name": "the fool",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/0.jpg"
+            },
+            {
+                "id": 1,
+                "name": "the magician",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/1.jpg"
+            },
+            {
+                "id": 2,
+                "name": "the high priestess",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/2.jpg"
+            },
+            {
+                "id": 3,
+                "name": "the empress",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/3.jpg"
+            },
+            {
+                "id": 4,
+                "name": "the emperor",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/4.jpg"
+            },
+            {
+                "id": 5,
+                "name": "the hierophant",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/5.jpg"
+            },
+            {
+                "id": 6,
+                "name": "the lovers",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/6.jpg"
+            },
+            {
+                "id": 7,
+                "name": "the chariot",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/7.jpg"
+            },
+            {
+                "id": 8,
+                "name": "strength",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/8.jpg"
+            },
+            {
+                "id": 9,
+                "name": "the hermit",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/9.jpg"
+            },
+            {
+                "id": 10,
+                "name": "wheel of fortune",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/10.jpg"
+            },
+            {
+                "id": 11,
+                "name": "justice",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/11.jpg"
+            },
+            {
+                "id": 12,
+                "name": "the hanged man",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/12.jpg"
+            },
+            {
+                "id": 13,
+                "name": "death",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/13.jpg"
+            },
+            {
+                "id": 14,
+                "name": "temperance",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/14.jpg"
+            },
+            {
+                "id": 15,
+                "name": "the devil",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/15.jpg"
+            },
+            {
+                "id": 16,
+                "name": "the tower",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/16.jpg"
+            },
+            {
+                "id": 17,
+                "name": "the star",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/17.jpg"
+            },
+            {
+                "id": 18,
+                "name": "the moon",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/18.jpg"
+            },
+            {
+                "id": 19,
+                "name": "the sun",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/19.jpg"
+            },
+            {
+                "id": 20,
+                "name": "judgment",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/20.jpg"
+            },
+            {
+                "id": 21,
+                "name": "the world",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/21.jpg"
+            },
+            {
+                "id": 22,
+                "name": "ace of wands",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/22.jpg"
+            },
+            {
+                "id": 23,
+                "name": "two of wands",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/23.jpg"
+            },
+            {
+                "id": 24,
+                "name": "three of wands",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/24.jpg"
+            },
+            {
+                "id": 25,
+                "name": "four of wands",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/25.jpg"
+            },
+            {
+                "id": 26,
+                "name": "five of wands",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/26.jpg"
+            },
+            {
+                "id": 27,
+                "name": "six of wands",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/27.jpg"
+            },
+            {
+                "id": 28,
+                "name": "seven of wands",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/28.jpg"
+            },
+            {
+                "id": 29,
+                "name": "eight of wands",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/29.jpg"
+            },
+            {
+                "id": 30,
+                "name": "nine of wands",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/30.jpg"
+            },
+            {
+                "id": 31,
+                "name": "ten of wands",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/31.jpg"
+            },
+            {
+                "id": 32,
+                "name": "page of wands",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/32.jpg"
+            },
+            {
+                "id": 33,
+                "name": "knight of wands",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/33.jpg"
+            },
+            {
+                "id": 34,
+                "name": "queen of wands",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/34.jpg"
+            },
+            {
+                "id": 35,
+                "name": "king of wands",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/35.jpg"
+            },
+            {
+                "id": 36,
+                "name": "ace of cups",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/36.jpg"
+            },
+            {
+                "id": 37,
+                "name": "two of cups",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/37.jpg"
+            },
+            {
+                "id": 38,
+                "name": "three of cups",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/38.jpg"
+            },
+            {
+                "id": 39,
+                "name": "four of cups",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/39.jpg"
+            },
+            {
+                "id": 40,
+                "name": "five of cups",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/40.jpg"
+            },
+            {
+                "id": 41,
+                "name": "six of cups",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/41.jpg"
+            },
+            {
+                "id": 42,
+                "name": "seven of cups",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/42.jpg"
+            },
+            {
+                "id": 43,
+                "name": "eight of cups",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/43.jpg"
+            },
+            {
+                "id": 44,
+                "name": "nine of cups",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/44.jpg"
+            },
+            {
+                "id": 45,
+                "name": "ten of cups",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/45.jpg"
+            },
+            {
+                "id": 46,
+                "name": "page of cups",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/46.jpg"
+            },
+            {
+                "id": 47,
+                "name": "knight of cups",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/47.jpg"
+            },
+            {
+                "id": 48,
+                "name": "queen of cups",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/48.jpg"
+            },
+            {
+                "id": 49,
+                "name": "king of cups",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/49.jpg"
+            },
+            {
+                "id": 50,
+                "name": "ace of swords",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/50.jpg"
+            },
+            {
+                "id": 51,
+                "name": "two of swords",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/51.jpg"
+            },
+            {
+                "id": 52,
+                "name": "three of swords",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/52.jpg"
+            },
+            {
+                "id": 53,
+                "name": "four of swords",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/53.jpg"
+            },
+            {
+                "id": 54,
+                "name": "five of swords",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/54.jpg"
+            },
+            {
+                "id": 55,
+                "name": "six of swords",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/55.jpg"
+            },
+            {
+                "id": 56,
+                "name": "seven of swords",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/56.jpg"
+            },
+            {
+                "id": 57,
+                "name": "eight of swords",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/57.jpg"
+            },
+            {
+                "id": 58,
+                "name": "nine of swords",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/58.jpg"
+            },
+            {
+                "id": 59,
+                "name": "ten of swords",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/59.jpg"
+            },
+            {
+                "id": 60,
+                "name": "page of swords",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/60.jpg"
+            },
+            {
+                "id": 61,
+                "name": "knight of swords",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/61.jpg"
+            },
+            {
+                "id": 62,
+                "name": "queen of swords",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/62.jpg"
+            },
+            {
+                "id": 63,
+                "name": "king of swords",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/63.jpg"
+            },
+            {
+                "id": 64,
+                "name": "ace of pentacles",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/64.jpg"
+            },
+            {
+                "id": 65,
+                "name": "two of pentacles",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/65.jpg"
+            },
+            {
+                "id": 66,
+                "name": "three of pentacles",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/66.jpg"
+            },
+            {
+                "id": 67,
+                "name": "four of pentacles",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/67.jpg"
+            },
+            {
+                "id": 68,
+                "name": "five of pentacles",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/68.jpg"
+            },
+            {
+                "id": 69,
+                "name": "six of pentacles",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/69.jpg"
+            },
+            {
+                "id": 70,
+                "name": "seven of pentacles",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/70.jpg"
+            },
+            {
+                "id": 71,
+                "name": "eight of pentacles",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/71.jpg"
+            },
+            {
+                "id": 72,
+                "name": "nine of pentacles",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/72.jpg"
+            },
+            {
+                "id": 73,
+                "name": "ten of pentacles",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/73.jpg"
+            },
+            {
+                "id": 74,
+                "name": "page of pentacles",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/74.jpg"
+            },
+            {
+                "id": 75,
+                "name": "knight of pentacles",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/75.jpg"
+            },
+            {
+                "id": 76,
+                "name": "queen of pentacles",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/76.jpg"
+            },
+            {
+                "id": 77,
+                "name": "king of pentacles",
+                "image": "https://raw.githubusercontent.com/hng011/narot/refs/heads/main/assets/decks/Rider/77.jpg"
+            }
+        ]
+    }
+}
