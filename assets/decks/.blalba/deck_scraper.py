@@ -20,7 +20,7 @@ def store(deck_name, count, extension, image_bytes):
         f.write(image_bytes)
 
 def main():
-    endpoint = os.getenv("DECK")
+    endpoint = os.getenv("DECK2")
     extension = os.getenv("EXTENSION")
     try:
         for i in range(78):
