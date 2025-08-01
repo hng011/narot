@@ -21,17 +21,19 @@ def store(deck_name, count, extension, image_bytes):
         f.write(image_bytes)
 
 def main():
-    endpoint = os.getenv(input("DECK NAME: "))
+    endpoints = [i for i in os.getenv("DECK").split(';') if len(i) > 0]
     extension = os.getenv("EXTENSION")
-    try:
-        for i in range(78):
-            res = requests.get(endpoint + str(i) + '.' + extension)
-            raw = str(endpoint.split("/")[-3])
-            deck_name = "".join(first_char_up(raw))
-            print(f"{i} success")
-            store(deck_name, i, extension, res.content)                
-    except Exception as E:
-        print(E)
+    
+    for ep in endpoints:
+        try:
+            for i in range(78):
+                res = requests.get(ep + str(i) + '.' + extension)
+                raw = str(ep.split("/")[-3])
+                deck_name = "".join(first_char_up(raw))
+                print(f"{i} success")
+                store(deck_name, i, extension, res.content)                
+        except Exception as E:
+            print(E)
     
 if __name__ == "__main__":
     s = time.time()

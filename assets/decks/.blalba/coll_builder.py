@@ -38,14 +38,15 @@ if len(decknames) < 1:
     print("E: DECKS ARE MISSING")
     raise None
 
-for i in decknames:
-    deck_size = 78
-    deckName = first_char_up(i)
-    data = None
-    path = "./deck.json"
-    is_load = False
-    source = os.getenv("SOURCE")
+deck_size = 78
+data = None
+path = "./deck.json"
+is_load = False
+source = os.getenv("SOURCE")
 
+for i in decknames:
+    deckName = first_char_up(i)
+    
     if os.path.exists(path) and os.path.getsize(path) > 0:
         with open(path, "r") as f:
             data = json.load(f)    
